@@ -19,24 +19,24 @@ It is a basic implementation to get knowledge about tuples, if conditions and re
    Input the name for second player with the O turn : <br>
 
 <br>
-   *2.- The game shows the dashboard like This <br>
+   * 2.- The game shows the dashboard like This <br>
    Tic Toc Dashboard <br>
    Player One with X turn :  Carolina <br>
    Player Two with O turn :  Enrique <br>
 
-     D E F <br>
-   A 1 2 3 <br>
-   B 4 5 6 <br>
-   C 7 8 9 <br>
+      D E F <br>
+    A 1 2 3 <br>
+    B 4 5 6 <br>
+    C 7 8 9 <br>
 
-   *3.- The game asks to the player about will be the selection choice.<br>
+   * 3.- The game asks to the player about will be the selection choice.<br>
 The gamer would selected ones number between 1 to 9 <br>
 Input the number that you want play with X turn : <br>
 
-   *4.- The game will update the dashboard and turn on to the next player ans so on.<br>
-   *5.- The game will validates the dashboard status on every move to determinates the game result. <br>
+   * 4.- The game will update the dashboard and turn on to the next player ans so on.<br>
+   * 5.- The game will validates the dashboard status on every move to determinates the game result. <br>
 
 <br>
-   Author : Jesus Enrique Aldana Sanchez
-   Date : February 17 2018
-   Version : 0.1
+   Author : Jesus Enrique Aldana Sanchez <br>
+   Date : February 17 2018 <br>
+   Version : 0.1 <br>
