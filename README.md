@@ -21,10 +21,10 @@ It is a basic implementation to get knowledge about tuples, if conditions and re
    Player One with X turn :  Carolina
    Player Two with O turn :  Enrique
 
-     D E F
-   A 1 2 3
-   B 4 5 6
-   C 7 8 9
+     D E F \n
+   A 1 2 3 \n
+   B 4 5 6 \n
+   C 7 8 9 \n
 
 3.- The game asks to the player about will be the selection choice.
 The gamer would selected ones number between 1 to 9
