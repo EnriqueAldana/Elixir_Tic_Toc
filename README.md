@@ -15,11 +15,12 @@ It is a basic implementation to get knowledge about tuples, if conditions and re
    <br>
   * 1.- The game ask you about the gamers names like this:
         Input the name for first player with the X turn : 
-        Input the name for second player with the O turn :
+        Input the name for second player with the O turn : 
+        <br>
   * 2.- The game shows the dashboard like This 
         Tic Toc Dashboard
-        Player One with X turn :  Carolina <br>
-        Player Two with O turn :  Enrique <br>
+        Player One with X turn :  Carolina
+        Player Two with O turn :  Enrique 
 
            D E F 
          A 1 2 3 
