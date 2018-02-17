@@ -5,9 +5,9 @@ It is a basic implementation to get knowledge about tuples, if conditions and re
 
 How to run : <br>
   * 1.- Install the Elixir BEAM software on your desktop.
-  * 2.- Download the tic_toc.ex file
-  * 3.- Input iex command line on a console or CMD command on windows
-  * 4.- Input c("tic_toc.ex") and press Enter key. You will see [Tic_Toc] message.
+  * 2.- Download the tic_toc.ex file.
+  * 3.- Input iex command line on a console or CMD command on windows.
+  * 4.- Input c("tic_toc.ex") and press Enter key. You will see [Tic_Toc] message.
   * 5.- Input Tic_Toc.start and press Enter key. If alright you will see the play running. <br>
   
 How to play: <br>
