@@ -1,5 +1,5 @@
 # Elixir_Tic_Toc
-Tic Too game implementation from Elixir 
+Tic Toc game implementation from Elixir 
 <br>
 It is a basic implementation to get knowledge about tuples, if conditions and recursivity funtions using Elixir language. <br>
 
