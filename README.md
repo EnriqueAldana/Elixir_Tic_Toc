@@ -33,4 +33,4 @@ How to play: <br>
 <br>
    Author : Jesus Enrique Aldana Sanchez <br>
    Date : February 17 2018 <br>
-   Version : 0.1 <br>
+   Version : 0.2 <br>
