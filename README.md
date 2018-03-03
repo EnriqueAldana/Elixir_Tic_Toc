@@ -34,3 +34,9 @@ How to play: <br>
    Author : Jesus Enrique Aldana Sanchez <br>
    Date : February 17 2018 <br>
    Version : 0.2 <br>
+
+# License
+
+Tic Toc game implementation from Elixir source code is released under Apache 2 License. The generated contents, however it could , are under different licenses based on projects used to help render HTML, including CSS, JS, and other assets.
+
+Check the [LICENSE](LICENSE) file for more information.
